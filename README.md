@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**JM-BYUI/jm-byui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jack Murdock
 
-Here are some ideas to get you started:
+Hello, GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Jack Murdock, a student at Brigham Young University-Idaho interested in computer science, web development, and cybersecurity. Welcome to my GitHub profile!
+
+## About Me
+
+- I'm currently learning more about SQL, threading, and web scraping.
+- My goals are to start networking, create more personal projects, a
+
+## Technologies and Tools
+
+- Proficient in: Python, C#, C++, Java, JavaScript, HTML, CSS, and Excel.
+- Skills: Writing & Editing, Interpersonal Communication, SQL, Microsoft Office Suite & Google Drive.
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/jack-murdock-1430b22b4/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
