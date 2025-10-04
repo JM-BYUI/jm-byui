@@ -8,7 +8,7 @@ I'm Jack Murdock, a student at Brigham Young University-Idaho interested in comp
 ## About Me
 
 - I'm currently learning more about SQL, threading, and web scraping.
-- My goals are to start networking, create more personal projects, a
+- My goals are to start networking and create more personal projects.
 
 ## Technologies and Tools
 
